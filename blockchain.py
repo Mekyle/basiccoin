@@ -1,6 +1,7 @@
 """ This file explains explains the rules for adding and removing blocks from the local chain.
 """
-import time
+#This imports all other python files and connects them to this file, it also imports other libraries
+import time 
 import copy
 import custom
 import networking
